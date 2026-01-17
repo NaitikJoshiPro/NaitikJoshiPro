@@ -24,12 +24,12 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NaitikJoshiPro&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1" height="180" alt="Streak Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NaitikJoshiPro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366F1&title_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 </div>
 
-<!-- Trophies -->
+<!-- Trophies (only showing earned ones) -->
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=NaitikJoshiPro&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-seven.vercel.app/?username=NaitikJoshiPro&theme=discord&no-frame=true&no-bg=true&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 </div>
 
 ---
