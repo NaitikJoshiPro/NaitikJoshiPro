@@ -24,7 +24,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NaitikJoshiPro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366F1&title_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://naitik-stats.vercel.app/api?username=NaitikJoshiPro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366F1&title_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 </div>
 
 <!-- Trophies (only showing earned ones) -->
