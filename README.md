@@ -24,7 +24,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://naitik-stats.vercel.app/api?username=NaitikJoshiPro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366F1&title_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://naitik-stats.vercel.app/api?username=NaitikJoshiPro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366F1&title_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
 </div>
 
 <!-- Trophies (only showing earned ones) -->
@@ -56,6 +56,23 @@
 </td>
 <td width="50%">
 
+### 🐋 Whale Wallet
+**Enterprise Crypto Custody** ⭐ NEW
+
+Non-custodial MPC wallet for HNWIs with 18 blockchain support.
+
+- 2-of-3 threshold signing (MPC)
+- Policy engine with velocity limits
+- AI concierge for white-glove support
+- Sovereign inheritance system
+
+🔗 [Live Demo](https://whale.naitik.online) • [GitHub](https://github.com/NaitikJoshiPro/Whale-Wallet)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📈 Trading Zettelkasten
 **Knowledge Management System** ⭐ 76+ Stars
 
@@ -68,8 +85,6 @@ Obsidian-based trading knowledge vault using Zettelkasten methodology.
 🔗 [GitHub](https://github.com/NaitikJoshiPro/Trading-ZettleKasten)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🧠 Life OS
@@ -82,20 +97,6 @@ Full-stack productivity platform with metrics-driven goals.
 - Keyboard-driven workflow
 
 🔗 [Live App](https://life-os.naitik.online) • [GitHub](https://github.com/NaitikJoshiPro/life-os)
-
-</td>
-<td width="50%">
-
-### 🤖 Chargeback Automation
-**AI-Powered Dispute Resolution**
-
-End-to-end automation for chargeback disputes using GPT-5 and n8n.
-
-- Automated rebuttal generation
-- Evidence handling & submission
-- PSP API integration
-
-🔗 [GitHub](https://github.com/NaitikJoshiPro/ChargeBack-Automation)
 
 </td>
 </tr>
@@ -146,6 +147,7 @@ End-to-end automation for chargeback disputes using GPT-5 and n8n.
 <div align="center">
   <a href="https://naitik.online"><img src="https://img.shields.io/badge/Portfolio-naitik.online-6366F1?style=flat-square" alt="Portfolio"/></a>
   <a href="https://orion.naitik.online"><img src="https://img.shields.io/badge/ORION-orion.naitik.online-10B981?style=flat-square" alt="ORION"/></a>
+  <a href="https://whale.naitik.online"><img src="https://img.shields.io/badge/Whale_Wallet-whale.naitik.online-14B8A6?style=flat-square" alt="Whale Wallet"/></a>
   <a href="https://life-os.naitik.online"><img src="https://img.shields.io/badge/Life_OS-life--os.naitik.online-F59E0B?style=flat-square" alt="Life OS"/></a>
 </div>
 
